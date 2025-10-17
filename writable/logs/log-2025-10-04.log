@@ -1,0 +1,100 @@
+DEBUG - 2025-10-04 00:01:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:01:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:01:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:01:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:01:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:01:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:01:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:01:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:01:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:01:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:01:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:01:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:01:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:01:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:01:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:01:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:01:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:03:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:03:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:03:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:03:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:04:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-10-04 00:05:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "auth/forgot_password.php"
+[Method: GET, Route: forgot-password]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth/forgot_password.php')
+ 2 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('auth/forgot_password', [], true)
+ 3 APPPATH/Controllers/AuthController.php(67): view('auth/forgot_password')
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->forgotPassword()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-10-04 00:05:25 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "auth/forgot_password.php"
+[Method: GET, Route: forgot-password]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth/forgot_password.php')
+ 2 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('auth/forgot_password', [], true)
+ 3 APPPATH/Controllers/AuthController.php(67): view('auth/forgot_password')
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->forgotPassword()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-04 00:05:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-10-04 00:05:28 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "auth/forgot_password.php"
+[Method: GET, Route: forgot-password]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth/forgot_password.php')
+ 2 SYSTEMPATH/Common.php(1167): CodeIgniter\View\View->render('auth/forgot_password', [], true)
+ 3 APPPATH/Controllers/AuthController.php(67): view('auth/forgot_password')
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->forgotPassword()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-04 00:05:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:06:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:07:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:08:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:09:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:09:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:09:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:09:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:09:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:09:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:09:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:10:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:10:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:10:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:10:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:10:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:10:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:10:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:11:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:11:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:11:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:11:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:12:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:12:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:12:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:12:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:12:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:12:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:12:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:14:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:18:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:19:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:19:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:19:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:19:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:19:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:19:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:19:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:27:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:27:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-04 00:27:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
