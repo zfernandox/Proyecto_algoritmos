@@ -1,8 +1,8 @@
-# 🚀 Bienvenido a mi proyecto de algoritmos
+# Bienvenido a mi proyecto de algoritmos
 
 ¡Bienvenido a **Mi proyecto de algoritmos**! Es una aplicación web diseñada bajo especificaciónes de nuestro cadetradico, fue desarrollada utilizando **CodeIgniter4** , base de datos **MySQL** y el patrón **MVC**, con el objetivo de aplicar y reforzar conocimientos prácticos en desarrollo web a gran escala.   
 
-## ✨ Funcionalidades
+## Funcionalidades
 - Registro e inicio de sesión de usuarios.  
 - Gestión de tareas (crear, editar, eliminar, listar).  
 - Perfil de usuario editable.  
@@ -10,7 +10,7 @@
 - Cambio de idioma (Inglés / Español).  
 - Control de sesiones y roles.
 
-## 🧰 Tecnologías
+## Tecnologías
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** CodeIgniter (PHP)  
 - **Base de datos:** MySQL  
@@ -18,6 +18,6 @@
 - **Virtualización:** VirtualBox + Lubuntu 22  
 - **Control de versiones:** Git + GitHub
 
-## 👤 Autor
+## Autor
 **Jorge Fernando Hernández Chajón**  
 Universidad Mariano Gálvez – Facultad de Ingeniería en Sistemas 
