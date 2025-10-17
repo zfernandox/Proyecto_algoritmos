@@ -1,6 +1,6 @@
 # Bienvenido a mi proyecto de algoritmos
 
-¡Bienvenido a **Mi proyecto de algoritmos**! Es una aplicación web diseñada bajo especificaciónes de nuestro catedrático, fue desarrollada utilizando **CodeIgniter4** , base de datos **MySQL** y el patrón **MVC**, con el objetivo de aplicar y reforzar conocimientos prácticos en desarrollo web a gran escala.   
+¡Bienvenido a **Mi proyecto de algoritmos**! Es una aplicación web diseñada bajo especificaciónes de nuestro catedrático, fue desarrollada utilizando **CodeIgniter4** , base de datos **MySQL** y el patrón **MVC**, con el objetivo de aplicar y reforzar conocimientos prácticos en desarrollo web a gran escala y tambien el proyecto incluye diagramas de clases pedidos por el catedrático que documentan la estructura y relaciones del sistema.  
 
 ## Funcionalidades
 - Registro e inicio de sesión de usuarios.  
@@ -20,4 +20,6 @@
 
 ## Autor
 **Jorge Fernando Hernández Chajón**  
-Universidad Mariano Gálvez – Facultad de Ingeniería en Sistemas 
+Universidad Mariano Gálvez – Facultad de Ingeniería en Sistemas
+
+
