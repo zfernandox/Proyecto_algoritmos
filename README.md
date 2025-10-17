@@ -1,6 +1,6 @@
 # Bienvenido a mi proyecto de algoritmos
 
-¡Bienvenido a **Mi proyecto de algoritmos**! Es una aplicación web diseñada bajo especificaciónes de nuestro cadetradico, fue desarrollada utilizando **CodeIgniter4** , base de datos **MySQL** y el patrón **MVC**, con el objetivo de aplicar y reforzar conocimientos prácticos en desarrollo web a gran escala.   
+¡Bienvenido a **Mi proyecto de algoritmos**! Es una aplicación web diseñada bajo especificaciónes de nuestro catedrático, fue desarrollada utilizando **CodeIgniter4** , base de datos **MySQL** y el patrón **MVC**, con el objetivo de aplicar y reforzar conocimientos prácticos en desarrollo web a gran escala.   
 
 ## Funcionalidades
 - Registro e inicio de sesión de usuarios.  
