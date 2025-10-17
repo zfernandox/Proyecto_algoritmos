@@ -4,7 +4,7 @@
 
 ## Funcionalidades
 - Registro e inicio de sesión de usuarios.  
-- Gestión de tareas (crear, editar, eliminar, listar).  
+- Gestión de tareas.  
 - Perfil de usuario editable.  
 - Administración de usuarios.  
 - Cambio de idioma (Inglés / Español).  
